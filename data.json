@@ -1,0 +1,124 @@
+[
+  {
+    "id": 3,
+    "attributes": {
+      "tag": "munaqosah",
+      "patterns": [
+        "syarat munaqosah",
+        "syarat ujian munaqosah",
+        "ujian munaqosah",
+        "syarat munaqosah apa aja",
+        "ujian munaqosah",
+        "apa syarat munaqosah"
+      ],
+      "context": [],
+      "responses": [
+        "Persiapan yang harus kamu persiapkan untuk ujian munaqosah adalah \n\n-\n- \n\nJangan lupa untuk daftar ujianya di <a href='https://tugasakhir.walisongo.ac.id/munaqosah/walisongo2/index.php/auth'>sini</a>"
+      ],
+      "createdAt": "2023-11-01T07:27:47.303Z",
+      "updatedAt": "2023-11-01T07:27:47.303Z"
+    }
+  },
+  {
+    "id": 4,
+    "attributes": {
+      "tag": "jumlah_mahasiswa",
+      "patterns": [
+        "jumlah mahasiwa ti",
+        "jumlah mahasiwa",
+        "jumlah mahasiwa teknologi informasi",
+        "total mahasiwa",
+        "total mahasiwa ti",
+        "total mahasiswa teknologi informasi"
+      ],
+      "context": [],
+      "responses": [
+        "Jumlah mahasiwa Teknologi Informasi dari data yang diperoleh pada tahun 2023 adalah <b>472 Mahasiswa</b>"
+      ],
+      "createdAt": "2023-11-01T07:31:59.162Z",
+      "updatedAt": "2023-11-01T07:31:59.162Z"
+    }
+  },
+  {
+    "id": 5,
+    "attributes": {
+      "tag": "lokasi_kp",
+      "patterns": [
+        "kerja praktik",
+        "magang",
+        "kp",
+        "lokasi kerja praktik",
+        "lokasi magang",
+        "lokasi kp",
+        "kerja praktik dimana",
+        "magang dimana",
+        "kp dimana",
+        "tempat kerja praktik",
+        "tempat magang",
+        "tempat kp"
+      ],
+      "context": [],
+      "responses": [
+        "Berikut adalah beberapa lokasi yang pernah dijadikan lokasi kerja praktik mahasiwa Teknologi Informasi UIN Walisongo Semarang \n\n-Diskominfo Provinsi Jawa Tengah /n-Badan Kepegawaian, Pendidikan, dan Pelatihan Kabupaten Kendal \n-Dinas Perhubungan Provinsi jawa Tengah \n-Diskominfo Temanggung \n-PT. Target Sukses Sinergi \n-Pt. Kantor Pos Jepara \n-Dll \n\nInformasi lengkap tentang lokasi kerja praktik dapat kamu akses pada link <a href='https://docs.google.com/document/d/1P2vpn87b4VY4c1nSSP8Liz94e1wOSJfhXYEMrodXlGk/edit?usp=sharing'>berikut ini</a>"
+      ],
+      "createdAt": "2023-11-01T07:46:57.057Z",
+      "updatedAt": "2023-11-01T09:12:42.670Z"
+    }
+  },
+  {
+    "id": 1,
+    "attributes": {
+      "tag": "akreditasi",
+      "patterns": [
+        "apa akreditasi prodi ti",
+        "apa akreditasi prodi teknologi informasi",
+        "akreditasi teknologi informasi",
+        "akreditasi"
+      ],
+      "context": [],
+      "responses": [
+        "Hai akreditasi dari prodi Teknologi Informasi UIN Walisongo adalah <b>Baik</b>. \n\nUntuk Surat Akreditasi nya dapat kamu akses pada link <a href='https://drive.google.com/file/d/1GNLK8X-MMTH-PGxDdR1C1RTEGnipJKZ_/view?usp=sharing'>berikut ini</a>."
+      ],
+      "createdAt": "2023-11-01T07:04:49.364Z",
+      "updatedAt": "2023-11-01T09:13:21.197Z"
+    }
+  },
+  {
+    "id": 6,
+    "attributes": {
+      "tag": "judul_skripsi",
+      "patterns": [
+        "judul skripsi",
+        "judul skripsi kakak tingkat",
+        "apa judul skripsi yang sudah diajukan",
+        "judul skripsi yang sudah diajukan"
+      ],
+      "context": [],
+      "responses": [
+        "Kumpulan judul skripsi yang sudah diajukan di prodi Teknologi Informasi UIN Walisongo Semarang dapat diakses pada link <a href='https://docs.google.com/document/d/1MknA4vWakDQAnK0f3bsyLyhU7TzBdtpmmFXBSrqYBz8/edit?usp=sharing'>berikut ini</a>."
+      ],
+      "createdAt": "2023-11-01T07:57:35.158Z",
+      "updatedAt": "2023-11-01T09:32:03.825Z"
+    }
+  },
+  {
+    "id": 2,
+    "attributes": {
+      "tag": "seminar_proposal",
+      "patterns": [
+        "syarat sempro",
+        "syarat seminar proposal",
+        "seminar proposal",
+        "sempro",
+        "apa syarat seminar proposal",
+        "apa syarat semppro"
+      ],
+      "context": [],
+      "responses": [
+        "Persyaratan yang harus kamu persiapkan untuk seminar proposal adalah: \n\n-Upload proposal penelitian yang sudah disetujui dosbing \n-Sertifikat narasumber atau Sertifikat kejuaraan/lomba"
+      ],
+      "createdAt": "2023-11-01T07:18:14.685Z",
+      "updatedAt": "2023-11-08T02:35:09.045Z"
+    }
+  }
+]
