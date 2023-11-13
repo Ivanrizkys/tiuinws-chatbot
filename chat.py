@@ -13,7 +13,7 @@ THANKS_FOR_FEEDBACK = "Terimakasih, semoga feedback yang anda berikan dapat memb
 
 REQUEST_QUESTION = "Tolong masukkan request pertanyaan yang akan ditambahkan ke dalam chatbot"
 
-CANCEL_REQUEST_QUESTION = "Proses penambahan data telah ditabalkan :)"
+CANCEL_REQUEST_QUESTION = "Proses penambahan data telah dibatalkan :)"
 
 REQUEST_QUESTION_RESULT = "Pertanyaan yang sudah anda masukkan kedalam database adalah"
 
