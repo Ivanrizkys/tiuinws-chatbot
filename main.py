@@ -1,5 +1,6 @@
 import chat
 import config
+import helper
 
 import requests
 import logging
@@ -44,12 +45,14 @@ async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
     await context.bot.send_message(chat_id=update.effective_chat.id, text=chat.START, parse_mode='HTML')
 
 async def echo(update: Update, context: ContextTypes.DEFAULT_TYPE):
-    await context.bot.send_message(chat_id=update.effective_chat.id, text="", parse_mode='HTML')
+    response = helper.get_answer(update.message.text)
+    await context.bot.send_message(chat_id=update.effective_chat.id, text=response, parse_mode='HTML')
+    await helper.insert_to_logs(update.message.text, response)
 
 if __name__ == '__main__':
     application = ApplicationBuilder().token(config.CHATBOT_TOKEN).build()
     
-    # conversation handler
+    #* conversation handler
     add_mode_handler = ConversationHandler(
         entry_points=[CommandHandler("add", start_add_question_mode)],
         states={
