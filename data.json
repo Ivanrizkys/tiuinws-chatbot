@@ -1,5 +1,25 @@
 [
   {
+    "id": 2,
+    "attributes": {
+      "tag": "seminar_proposal",
+      "patterns": [
+        "syarat sempro",
+        "syarat seminar proposal",
+        "seminar proposal",
+        "sempro",
+        "apa syarat seminar proposal",
+        "apa syarat semppro"
+      ],
+      "context": [],
+      "responses": [
+        "Persyaratan yang harus kamu persiapkan untuk seminar proposal adalah: \n\n- Upload proposal penelitian yang sudah disetujui dosbing \n- Sertifikat narasumber atau Sertifikat kejuaraan/lomba \n\nJangan lupa untuk daftar ujianya di <a href='https://tugasakhir.walisongo.ac.id/komprehenshif/walisongo2/index.php/auth'>sini</a>"
+      ],
+      "createdAt": "2023-11-01T07:18:14.685Z",
+      "updatedAt": "2023-11-10T02:13:11.305Z"
+    }
+  },
+  {
     "id": 3,
     "attributes": {
       "tag": "munaqosah",
@@ -59,28 +79,10 @@
       ],
       "context": [],
       "responses": [
-        "Berikut adalah beberapa lokasi yang pernah dijadikan lokasi kerja praktik mahasiwa Teknologi Informasi UIN Walisongo Semarang \n\n-Diskominfo Provinsi Jawa Tengah /n-Badan Kepegawaian, Pendidikan, dan Pelatihan Kabupaten Kendal \n-Dinas Perhubungan Provinsi jawa Tengah \n-Diskominfo Temanggung \n-PT. Target Sukses Sinergi \n-Pt. Kantor Pos Jepara \n-Dll \n\nInformasi lengkap tentang lokasi kerja praktik dapat kamu akses pada link <a href='https://docs.google.com/document/d/1P2vpn87b4VY4c1nSSP8Liz94e1wOSJfhXYEMrodXlGk/edit?usp=sharing'>berikut ini</a>"
+        "Berikut adalah beberapa lokasi yang pernah dijadikan lokasi kerja praktik mahasiwa Teknologi Informasi UIN Walisongo Semarang \n\n- Diskominfo Provinsi Jawa Tengah \n- Badan Kepegawaian, Pendidikan, dan Pelatihan Kabupaten Kendal \n- Dinas Perhubungan Provinsi jawa Tengah \n- Diskominfo Temanggung \n- PT. Target Sukses Sinergi \n- Pt. Kantor Pos Jepara \n- Dll \n\nInformasi lengkap tentang lokasi kerja praktik dapat kamu akses pada link <a href='https://docs.google.com/document/d/1P2vpn87b4VY4c1nSSP8Liz94e1wOSJfhXYEMrodXlGk/edit?usp=sharing'>berikut ini</a>"
       ],
       "createdAt": "2023-11-01T07:46:57.057Z",
-      "updatedAt": "2023-11-01T09:12:42.670Z"
-    }
-  },
-  {
-    "id": 1,
-    "attributes": {
-      "tag": "akreditasi",
-      "patterns": [
-        "apa akreditasi prodi ti",
-        "apa akreditasi prodi teknologi informasi",
-        "akreditasi teknologi informasi",
-        "akreditasi"
-      ],
-      "context": [],
-      "responses": [
-        "Hai akreditasi dari prodi Teknologi Informasi UIN Walisongo adalah <b>Baik</b>. \n\nUntuk Surat Akreditasi nya dapat kamu akses pada link <a href='https://drive.google.com/file/d/1GNLK8X-MMTH-PGxDdR1C1RTEGnipJKZ_/view?usp=sharing'>berikut ini</a>."
-      ],
-      "createdAt": "2023-11-01T07:04:49.364Z",
-      "updatedAt": "2023-11-01T09:13:21.197Z"
+      "updatedAt": "2023-11-13T03:08:25.919Z"
     }
   },
   {
@@ -102,23 +104,66 @@
     }
   },
   {
-    "id": 2,
+    "id": 7,
     "attributes": {
-      "tag": "seminar_proposal",
+      "tag": "no_answer",
       "patterns": [
-        "syarat sempro",
-        "syarat seminar proposal",
-        "seminar proposal",
-        "sempro",
-        "apa syarat seminar proposal",
-        "apa syarat semppro"
+        ""
+      ],
+      "context": [
+        ""
+      ],
+      "responses": [
+        "Maaf, aku tidak mengerti apa yang kamu maksud, kamu bisa menambahkan pertanyaan tadi di menu /add :)",
+        "Maaf, aku tidak punya jawaban dari pertanyaanmu. Kalau kamu mau, kamu bisa menambahkan pertanyaan itu di menu /add ya :)"
+      ],
+      "createdAt": "2023-11-10T01:59:19.778Z",
+      "updatedAt": "2023-11-10T01:59:19.778Z"
+    }
+  },
+  {
+    "id": 8,
+    "attributes": {
+      "tag": "greetings",
+      "patterns": [
+        "p",
+        "hallo",
+        "hai",
+        "hi",
+        "hai sayang",
+        "assalamualaikum",
+        "selamat pagi",
+        "selamat siang",
+        "selamat malam"
+      ],
+      "context": [
+        ""
+      ],
+      "responses": [
+        "Hai, ada yang bisa aku bantu?",
+        "Hai, silahkan bertanya seputar prodi tiuinws :)",
+        "Hallo, adakah yang bisa aku bantu?"
+      ],
+      "createdAt": "2023-11-10T02:06:49.988Z",
+      "updatedAt": "2023-11-10T02:06:49.988Z"
+    }
+  },
+  {
+    "id": 1,
+    "attributes": {
+      "tag": "akreditasi",
+      "patterns": [
+        "apa akreditasi prodi ti",
+        "apa akreditasi prodi teknologi informasi",
+        "akreditasi teknologi informasi",
+        "akreditasi"
       ],
       "context": [],
       "responses": [
-        "Persyaratan yang harus kamu persiapkan untuk seminar proposal adalah: \n\n-Upload proposal penelitian yang sudah disetujui dosbing \n-Sertifikat narasumber atau Sertifikat kejuaraan/lomba"
+        "Akreditasi dari prodi Teknologi Informasi UIN Walisongo adalah <b>Baik</b>. \n\nUntuk Surat Akreditasi nya dapat kamu akses pada link <a href='https://drive.google.com/file/d/1GNLK8X-MMTH-PGxDdR1C1RTEGnipJKZ_/view?usp=sharing'>berikut ini</a>."
       ],
-      "createdAt": "2023-11-01T07:18:14.685Z",
-      "updatedAt": "2023-11-08T02:35:09.045Z"
+      "createdAt": "2023-11-01T07:04:49.364Z",
+      "updatedAt": "2023-11-10T02:09:49.496Z"
     }
   }
 ]
