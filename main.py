@@ -41,8 +41,10 @@ async def cancel_add_question_mode(update: Update, context: ContextTypes.DEFAULT
 
 #* default mode
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
-    print("last name sender", update.message.chat.last_name)
     await context.bot.send_message(chat_id=update.effective_chat.id, text=chat.START, parse_mode='HTML')
+
+async def help(update: Update, context: ContextTypes.DEFAULT_TYPE):
+    await context.bot.send_message(chat_id=update.effective_chat.id, text=chat.HELP, parse_mode="HTML")
 
 async def echo(update: Update, context: ContextTypes.DEFAULT_TYPE):
     response = helper.get_answer(update.message.text)
@@ -63,10 +65,12 @@ if __name__ == '__main__':
     
     #* handler
     start_handler = CommandHandler('start', start)
+    help_handler = CommandHandler("help", help)
     echo_handler = MessageHandler(filters.TEXT & (~filters.COMMAND), echo)
 
     #* register handler
     application.add_handler(start_handler)
+    application.add_handler(help_handler)
     application.add_handler(add_mode_handler)
     application.add_handler(echo_handler)
     
