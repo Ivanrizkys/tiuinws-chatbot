@@ -23,12 +23,12 @@ HELP = '''Hi, aku dapat membantumu untuk mencari informasi seputar prodi Teknolo
 Termimakasih :)
 '''
 
-THANKS_FOR_FEEDBACK = "Terimakasih, semoga feedback yang anda berikan dapat membuat chatbot lebih baik lagi kedepanya :)"
+THANKS_FOR_FEEDBACK = "Terimakasih, semoga feedback yang kamu berikan dapat membuat chatbot lebih baik lagi kedepanya :)"
 
 REQUEST_QUESTION = "Tolong masukkan request pertanyaan yang akan ditambahkan ke dalam chatbot"
 
 CANCEL_REQUEST_QUESTION = "Proses penambahan data telah dibatalkan :)"
 
-REQUEST_QUESTION_RESULT = "Pertanyaan yang sudah anda masukkan kedalam database adalah"
+REQUEST_QUESTION_RESULT = "Pertanyaan yang sudah kamu masukkan kedalam database adalah"
 
 ERROR_ADD_QUESTION = "Terjadi kesalahan, mohon ulangi lagi :)"
