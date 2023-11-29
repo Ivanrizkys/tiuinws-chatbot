@@ -1,5 +1,23 @@
 [
   {
+    "id": 1,
+    "attributes": {
+      "tag": "akreditasi",
+      "patterns": [
+        "apa akreditasi prodi ti",
+        "apa akreditasi prodi teknologi informasi",
+        "akreditasi teknologi informasi",
+        "akreditasi"
+      ],
+      "context": [],
+      "responses": [
+        "Akreditasi dari prodi Teknologi Informasi UIN Walisongo adalah <b>Baik</b>. \n\nUntuk Surat Akreditasi nya dapat kamu akses pada link <a href='https://drive.google.com/file/d/1GNLK8X-MMTH-PGxDdR1C1RTEGnipJKZ_/view?usp=sharing'>berikut ini</a>."
+      ],
+      "createdAt": "2023-11-01T07:04:49.364Z",
+      "updatedAt": "2023-11-10T02:09:49.496Z"
+    }
+  },
+  {
     "id": 2,
     "attributes": {
       "tag": "seminar_proposal",
@@ -13,10 +31,10 @@
       ],
       "context": [],
       "responses": [
-        "Persyaratan yang harus kamu persiapkan untuk seminar proposal adalah: \n\n- Upload proposal penelitian yang sudah disetujui dosbing \n- Sertifikat narasumber atau Sertifikat kejuaraan/lomba \n\nJangan lupa untuk daftar ujianya di <a href='https://tugasakhir.walisongo.ac.id/komprehenshif/walisongo2/index.php/auth'>sini</a>"
+        "Persyaratan yang harus kamu persiapkan untuk seminar proposal dapat kamu lihat di <a href='https://docs.google.com/document/d/1da0RTaSZ7XtbHDmtGFGZZbemxMWLwO7kB33WkRbYzwM/edit?usp=sharing'>sini</a>. Jangan lupa untuk daftar ujianya di <a href='https://tugasakhir.walisongo.ac.id/komprehenshif/walisongo2/index.php/auth'>website tugas akhir</a>"
       ],
       "createdAt": "2023-11-01T07:18:14.685Z",
-      "updatedAt": "2023-11-10T02:13:11.305Z"
+      "updatedAt": "2023-11-29T04:01:55.943Z"
     }
   },
   {
@@ -33,10 +51,10 @@
       ],
       "context": [],
       "responses": [
-        "Persiapan yang harus kamu persiapkan untuk ujian munaqosah adalah \n\n-\n- \n\nJangan lupa untuk daftar ujianya di <a href='https://tugasakhir.walisongo.ac.id/munaqosah/walisongo2/index.php/auth'>sini</a>"
+        "Persiapan yang harus kamu lakukan untuk ujian munaqosah dapat kamu lihat di <a href='https://docs.google.com/document/d/1XMNXrCzcYtYvF8N6KbJ06JBaVfGXHJCc5F6CyApdV9U/edit?usp=sharing'>sini</a>. Jangan lupa untuk mendaftar unjianya di <a href='https://tugasakhir.walisongo.ac.id/munaqosah/walisongo2/index.php/auth'>website tugas akhir</a>"
       ],
       "createdAt": "2023-11-01T07:27:47.303Z",
-      "updatedAt": "2023-11-01T07:27:47.303Z"
+      "updatedAt": "2023-11-29T03:37:56.523Z"
     }
   },
   {
@@ -64,9 +82,6 @@
     "attributes": {
       "tag": "lokasi_kp",
       "patterns": [
-        "kerja praktik",
-        "magang",
-        "kp",
         "lokasi kerja praktik",
         "lokasi magang",
         "lokasi kp",
@@ -82,7 +97,7 @@
         "Berikut adalah beberapa lokasi yang pernah dijadikan lokasi kerja praktik mahasiwa Teknologi Informasi UIN Walisongo Semarang \n\n- Diskominfo Provinsi Jawa Tengah \n- Badan Kepegawaian, Pendidikan, dan Pelatihan Kabupaten Kendal \n- Dinas Perhubungan Provinsi jawa Tengah \n- Diskominfo Temanggung \n- PT. Target Sukses Sinergi \n- Pt. Kantor Pos Jepara \n- Dll \n\nInformasi lengkap tentang lokasi kerja praktik dapat kamu akses pada link <a href='https://docs.google.com/document/d/1P2vpn87b4VY4c1nSSP8Liz94e1wOSJfhXYEMrodXlGk/edit?usp=sharing'>berikut ini</a>"
       ],
       "createdAt": "2023-11-01T07:46:57.057Z",
-      "updatedAt": "2023-11-13T03:08:25.919Z"
+      "updatedAt": "2023-11-28T08:45:29.727Z"
     }
   },
   {
@@ -149,21 +164,368 @@
     }
   },
   {
-    "id": 1,
+    "id": 9,
     "attributes": {
-      "tag": "akreditasi",
+      "tag": "prestasi",
       "patterns": [
-        "apa akreditasi prodi ti",
-        "apa akreditasi prodi teknologi informasi",
-        "akreditasi teknologi informasi",
-        "akreditasi"
+        "prestasi",
+        "prestasi mahasiswa",
+        "prestasi mahasiswa ti",
+        "prestasi mahasiswa teknologi informasi",
+        "menang lomba"
       ],
       "context": [],
       "responses": [
-        "Akreditasi dari prodi Teknologi Informasi UIN Walisongo adalah <b>Baik</b>. \n\nUntuk Surat Akreditasi nya dapat kamu akses pada link <a href='https://drive.google.com/file/d/1GNLK8X-MMTH-PGxDdR1C1RTEGnipJKZ_/view?usp=sharing'>berikut ini</a>."
+        "Prestasi prestasi yang diperoleh mahasiswa/mahasiswi Teknologi Informasi UIN Walisongo Semarang dapat kamu akses pada link <a href='https://docs.google.com/document/d/1Ty0Otlv89D4aD5B5o41asw3_zH8HReOphsJ9VVnSsHY/edit?usp=sharing'>berikut ini</a> "
       ],
-      "createdAt": "2023-11-01T07:04:49.364Z",
-      "updatedAt": "2023-11-10T02:09:49.496Z"
+      "createdAt": "2023-11-28T08:02:42.582Z",
+      "updatedAt": "2023-11-29T08:25:51.036Z"
+    }
+  },
+  {
+    "id": 10,
+    "attributes": {
+      "tag": "dosen",
+      "patterns": [
+        "dosen",
+        "dosen prodi ti",
+        "dosen jurusan ti",
+        "dosen ti",
+        "dosen prodi teknologi informasi",
+        "dosen teknologi informasi",
+        "dosen jurusan teknologi informasi"
+      ],
+      "context": [],
+      "responses": [
+        "Daftar dosen dari prodi Teknologi Informasi UIN Walisongo Semarang dari data yang diperoleh pada tahun 2023 dapat kamu akses pada link <a href='https://docs.google.com/document/d/1D5giwqb7J0HoTVwNVsqOO0tBnRCApByzNVrGwoEOTus/edit?usp=sharing'>berikut ini</a>"
+      ],
+      "createdAt": "2023-11-28T08:38:28.120Z",
+      "updatedAt": "2023-11-28T08:38:28.120Z"
+    }
+  },
+  {
+    "id": 11,
+    "attributes": {
+      "tag": "cara_kp",
+      "patterns": [
+        "cara magang",
+        "cara kp",
+        "cara kerja praktik",
+        "tata cara kerja praktik",
+        "tata cara magang",
+        "tata cara kp",
+        "magang gimana caranya",
+        "kp gimana caranya",
+        "kerja praktik gimana caranya",
+        "langkah langkah kp",
+        "langkah langkah kerja praktik",
+        "langkah langkah magang",
+        "alur kp",
+        "alur kerja praktik",
+        "alur magang"
+      ],
+      "context": [],
+      "responses": [
+        "Tata cara kerja praktik untuk prodi Teknologi Informasi UIN Walisongo Semarang dapat kamu lihat pada gambar <a href='https://drive.google.com/file/d/1VVydmukvy6TznZXO7PZ3NgE2a8zJ0iOk/view?usp=sharing'>berikut ini</a>"
+      ],
+      "createdAt": "2023-11-28T08:48:49.262Z",
+      "updatedAt": "2023-11-29T07:55:56.952Z"
+    }
+  },
+  {
+    "id": 12,
+    "attributes": {
+      "tag": "mata_kuliah_sk",
+      "patterns": [
+        "mata kuliah sk",
+        "mata kuliah sistem komputer",
+        "mata kuliah sistem rekayasa komputer",
+        "mata kuliah penjuruan sk",
+        "mata kuliah penjuruan sistem komputer",
+        "mata kuliah penjuruan sistem rekayasa komputer",
+        "sistem komputer dapat apa aja",
+        "sistem komputer dapat apa",
+        "sk dapat apa"
+      ],
+      "context": [],
+      "responses": [
+        "Penjuruan Sistem Komputer pada prodi Teknologi Informasi UIN Walisongo Semarang akan mendapat mata kuliah berikut ini: \n\n-Sistem Berbasis Internet of Things \n-Robotika \n-Cloud Computing \n-Layanan Terkoneksi dan Komputasi Bergerak \n-Programmable Logic Controller (PLC) \n-Telemetri"
+      ],
+      "createdAt": "2023-11-28T09:25:55.871Z",
+      "updatedAt": "2023-11-28T09:30:56.460Z"
+    }
+  },
+  {
+    "id": 13,
+    "attributes": {
+      "tag": "mata_kuliah_rpl",
+      "patterns": [
+        "mata kuliah rpl",
+        "mata kuliah rekayasa perangkat lunak",
+        "mata kuliah penjuruan rpl",
+        "mata kuliah penjuruan rekayasa perangkat lunak",
+        "rekayasa perangkat lunak dapat apa aja",
+        "rekayasa perangkat lunak dapat apa",
+        "rpl dapat apa"
+      ],
+      "context": [],
+      "responses": [
+        "Penjuruan Rekayasa Perangkat Lunak pada prodi Teknologi Informasi UIN Walisongo Semarang akan mendapat mata kuliah berikut ini: \n\n-Pengembangan Aplikasi Perangkat Bergerak \n-Sistem Pakar \n-Desain Kreatif Aplikasi & Game \n-Biometrika \n-Programmable Logic Controller (PLC) \n-Big Data"
+      ],
+      "createdAt": "2023-11-28T09:32:19.533Z",
+      "updatedAt": "2023-11-28T09:32:19.533Z"
+    }
+  },
+  {
+    "id": 14,
+    "attributes": {
+      "tag": "pengertian_teknologi_informasi",
+      "patterns": [
+        "ti itu apa",
+        "teknologi informasi itu apa",
+        "apa itu ti",
+        "apa itu teknologi informasi",
+        "pengertian ti",
+        "pengertian teknologi informasi",
+        "pengertian prodi teknologi informasi",
+        "pengertian prodi ti",
+        "apa itu prodi teknologi informasi",
+        "apa itu prodi ti",
+        "prodi teknologi informasi itu apa",
+        "prodi ti itu apa"
+      ],
+      "context": [],
+      "responses": [
+        "<b>Prodi Teknologi Informasi</b> adalah prodi yang berkomitmen untuk mencapai lulusan sebagai sarjana teknik di bidang teknik informasi yang difasilitasi oleh teknologi. Prodi ini berfokus menghasilkan lulusan yang berperan sebagai agen perusahaan di bidang rekayasa perangkat lunak dan perangkat keras."
+      ],
+      "createdAt": "2023-11-28T09:46:54.110Z",
+      "updatedAt": "2023-11-28T09:46:54.110Z"
+    }
+  },
+  {
+    "id": 15,
+    "attributes": {
+      "tag": "jadwal_kuliah",
+      "patterns": [
+        "jadwal kuliah",
+        "cara liat jadwal kuliah",
+        "list jadwal kuliah"
+      ],
+      "context": [],
+      "responses": [
+        "Untuk melihat jadwal kuliahmu, kamu dapat mengikuti langkah langkah berikut ini: \n\n-Login pada website <a href='https://akademik.walisongo.ac.id/index.php/auth/'>walisiadik</a> \n-Klik menu jadwal kuliah \n-Kamu bisa melihat jadwal kuliah pada tabel yang ada"
+      ],
+      "createdAt": "2023-11-28T09:54:34.552Z",
+      "updatedAt": "2023-11-29T02:05:06.019Z"
+    }
+  },
+  {
+    "id": 16,
+    "attributes": {
+      "tag": "cara_validasi_jurnal_kuliah",
+      "patterns": [
+        "validasi jurnal kuliah",
+        "cara validasi jurnal kuliah",
+        "validasi jurnal kuliah gimana"
+      ],
+      "context": [],
+      "responses": [
+        "Untuk melihat jadwal kuliahmu, kamu dapat mengikuti langkah langkah berikut ini: \n\n-Login pada website <a href='https://akademik.walisongo.ac.id/index.php/auth/'>walisiadik</a> \n-Klik menu jurnal kuliah \n-Masuk ke menu validasi jurnal kuliah \n-Klik tombol validasi untuk jurnal kuliah yang ingin kamu validasi"
+      ],
+      "createdAt": "2023-11-28T10:02:19.013Z",
+      "updatedAt": "2023-11-29T02:04:52.214Z"
+    }
+  },
+  {
+    "id": 17,
+    "attributes": {
+      "tag": "nilai_kuliah",
+      "patterns": [
+        "nilai kuliah",
+        "nilai",
+        "nilai mata kuliah",
+        "cara liat nilai kuliah",
+        "cara liat nilai",
+        "cara liat nilai mata kuliah"
+      ],
+      "context": [],
+      "responses": [
+        "Untuk melihat nilai kuliahmu, kamu dapat mengikuti langkah langkah berikut ini: \n\n-Login pada website <a href='https://akademik.walisongo.ac.id/index.php/auth/'>walisiadik</a> \n-Klik menu indeks prestasi \n-Masuk ke menu transkrip"
+      ],
+      "createdAt": "2023-11-29T02:10:41.050Z",
+      "updatedAt": "2023-11-29T02:10:41.050Z"
+    }
+  },
+  {
+    "id": 18,
+    "attributes": {
+      "tag": "bahasa_pemrograman",
+      "patterns": [
+        "bahasa pemrograman",
+        "bahasa pemrograman untuk kuliah",
+        "belajar bahasa pemrograman apa"
+      ],
+      "context": [],
+      "responses": [
+        "Di prodi Teknologi Informasi UIN Walisongo semarang, kamu akan memperlajari beberapa bahasa pemrograman seperti PHP, JavaScript, Java, Python, C#, dan C"
+      ],
+      "createdAt": "2023-11-29T02:17:42.784Z",
+      "updatedAt": "2023-11-29T02:17:42.784Z"
+    }
+  },
+  {
+    "id": 19,
+    "attributes": {
+      "tag": "bayar_ukt",
+      "patterns": [
+        "bayar ukt",
+        "bayar uang kuliah tunggal",
+        "cara bayar ukt",
+        "cara bayar uang kuliah tunggal",
+        "tata cara pembayaran ukt",
+        "tata cara pembayaran uang kuliah tunggal",
+        "langkah langkah bayar ukt",
+        "langkah langkah bayar uang kuliah tunggal"
+      ],
+      "context": [],
+      "responses": [
+        "Tata cara pembayaran UKT dapat kamu lihat pada dokumen <a href=''>berikut ini</a>"
+      ],
+      "createdAt": "2023-11-29T02:24:58.877Z",
+      "updatedAt": "2023-11-29T02:24:58.877Z"
+    }
+  },
+  {
+    "id": 20,
+    "attributes": {
+      "tag": "kakak_asuh",
+      "patterns": [
+        "narahubung mahasiswa baru",
+        "narahubung",
+        "kontak narahubung",
+        "wa narahubung",
+        "nomor narahubung",
+        "nomor wa narahubung",
+        "kakak asuh mahasiswa baru",
+        "kakak asuh",
+        "kontak kakak asuh",
+        "wa kakak asuh",
+        "nomor kakak asuh",
+        "nomor wa kakak asuh"
+      ],
+      "context": [],
+      "responses": [
+        "Jika kamu mahasiswa baru, kamu bisa manghubungi narahubung/kakak asuh untuk menanyakan info seputar pbak dan informasi lainya mengenai perkuliahan. Untuk nomornya, kamu bisa mendapatkan di <a href='https://linktr.ee/tiuinws'>sini</a> dan setelah itu kamu bisa klik pada icon whatsapp."
+      ],
+      "createdAt": "2023-11-29T02:52:26.071Z",
+      "updatedAt": "2023-11-29T04:47:28.001Z"
+    }
+  },
+  {
+    "id": 21,
+    "attributes": {
+      "tag": "wajib_mahad",
+      "patterns": [
+        "wajib mahad",
+        "wajib ma'had"
+      ],
+      "context": [],
+      "responses": [
+        "Mulai dari angkatan 2023, Ma'had <b>wajib</b> diikuti seluruh mahasiswa/mahasiswi UIN Walisongo Semarang"
+      ],
+      "createdAt": "2023-11-29T02:55:34.590Z",
+      "updatedAt": "2023-11-29T04:49:19.549Z"
+    }
+  },
+  {
+    "id": 22,
+    "attributes": {
+      "tag": "jadwal_pbak",
+      "patterns": [
+        "jadwal pbak",
+        "rundown pbak",
+        "pbak ngapain aja"
+      ],
+      "context": [],
+      "responses": [
+        "Untuk informasi jadwal PBAK, kamu bisa bertanya langsung kepada kakak asuh mahasiswa baru. Jika belum mendapatkan kontaknya, kamu bisa kunjungi halaman <a href='https://linktr.ee/tiuinws'>ini</a>"
+      ],
+      "createdAt": "2023-11-29T03:00:00.676Z",
+      "updatedAt": "2023-11-29T03:00:00.676Z"
+    }
+  },
+  {
+    "id": 23,
+    "attributes": {
+      "tag": "kelompok _belajar",
+      "patterns": [
+        "kelompok belajar",
+        "study club",
+        "komunitas belajar"
+      ],
+      "context": [],
+      "responses": [
+        "Di prodi Teknologi Informasi UIN Walisongo Semarang, ada beberapa komunitas atau kelompok belajar yang dapat kamu ikuti seperti <a href='https://www.instagram.com/gdscuinws/'>Google Developer Student Club UIN Walisongo</a> dan <a href='https://www.instagram.com/sintech_uinws/'>Sintech</a>"
+      ],
+      "createdAt": "2023-11-29T03:08:41.878Z",
+      "updatedAt": "2023-11-29T03:08:41.878Z"
+    }
+  },
+  {
+    "id": 24,
+    "attributes": {
+      "tag": "acara_tahunan",
+      "patterns": [
+        "acara tahunan",
+        "acara rutinan",
+        "acara prodi",
+        "acara himpunan",
+        "acara hmj"
+      ],
+      "context": [],
+      "responses": [
+        "Prodi Teknologi Informasi mempunyai acara tahunan bernama Super Walisongo Information Technology Festival (SWITCHFEST) yang diselenggarakan oleh HMJ TI"
+      ],
+      "createdAt": "2023-11-29T03:13:43.312Z",
+      "updatedAt": "2023-11-29T03:13:43.312Z"
+    }
+  },
+  {
+    "id": 25,
+    "attributes": {
+      "tag": "lomba_tahunan",
+      "patterns": [
+        "lomba tahunan",
+        "lomba jurusan",
+        "lomba prodi"
+      ],
+      "context": [],
+      "responses": [
+        "Prodi Teknologi Informasi mempunyai acara lomba tahunan yang masuk ke dalam agenda SWITCHFEST yang diselenggarakan HMJ TI"
+      ],
+      "createdAt": "2023-11-29T03:16:35.647Z",
+      "updatedAt": "2023-11-29T03:16:35.647Z"
+    }
+  },
+  {
+    "id": 26,
+    "attributes": {
+      "tag": "jalur_pendaftaran",
+      "patterns": [
+        "jalur pendaftaran",
+        "cara daftar prodi ti",
+        "daftar prodi ti",
+        "daftar jurusan teknologi informasi",
+        "daftar prodi teknologi informasi",
+        "cara daftar prodi teknologi informasi",
+        "cara daftar jurusan teknologi informasi"
+      ],
+      "context": [],
+      "responses": [
+        "Untuk bisa mendaftar di prodi Teknologi Informasi UIN Walisongo Semarang, kamu dapat mengikuti beberapa jalur yang tersedia. Jalur jalur tersebut meliputi Seleksi Nasional Penerimaan Mahasiswa Baru (SNBP), Seleksi Nasional Berbasis Tes (SNBT), dan unian Mandiri"
+      ],
+      "createdAt": "2023-11-29T03:23:29.141Z",
+      "updatedAt": "2023-11-29T03:23:29.141Z"
     }
   }
 ]
