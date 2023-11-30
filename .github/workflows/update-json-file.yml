@@ -11,7 +11,7 @@ jobs:
               with:
                 host: ${{ secrets.SSH_HOST }}
                 username: ${{ secrets.SSH_USERNAME }}
-                key: ${{ secrets.SSH_SECRET }}
+                password: ${{ secrets.SSH_SECRET }}
                 script: |
                     ls -a
 
