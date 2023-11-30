@@ -14,7 +14,5 @@ jobs:
                 password: ${{ secrets.SSH_SECRET }}
                 script: |
                     cd tiuinws-chatbot/
-                    tmux kill-session -t chat-1
                     python3 update_json.py
-                    tmux new -s chat-1
-                    python3 main.py
+                    pm2 restart main
