@@ -3,7 +3,7 @@ on:
     workflow_dispatch:
 jobs:
     Deploy:
-        name: Update Chatbot Datasets
+        name: Update JSON File
         runs-on: ubuntu-latest
         steps:
             - name: Remote SSH
@@ -13,7 +13,8 @@ jobs:
                 username: ${{ secrets.SSH_USERNAME }}
                 password: ${{ secrets.SSH_SECRET }}
                 script: |
-                    ls -a
                     cd tiuinws-chatbot/
-                    ls -a
-                    tmux ls
+                    tmux kill-session -t chat-1
+                    python3 update_json.py
+                    tmux new -s chat-1
+                    python3 main.py
