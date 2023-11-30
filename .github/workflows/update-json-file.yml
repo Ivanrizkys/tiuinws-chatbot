@@ -1,4 +1,4 @@
-name: Update Json File
+name: Update JSON File
 on:
     workflow_dispatch:
 jobs:
