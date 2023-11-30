@@ -3,10 +3,10 @@ on:
     workflow_dispatch:
 jobs:
     Deploy:
-        name: Deploy
+        name: Update Chatbot Datasets
         runs-on: ubuntu-latest
         steps:
-            - name: Enter a server
+            - name: Remote SSH
               uses: appleboy/ssh-action@master
               with:
                 host: ${{ secrets.SSH_HOST }}
@@ -14,5 +14,6 @@ jobs:
                 password: ${{ secrets.SSH_SECRET }}
                 script: |
                     ls -a
-
-                
+                    cd tiuinws-chatbot/
+                    ls -a
+                    tmux ls
