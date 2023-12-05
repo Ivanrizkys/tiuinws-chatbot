@@ -12,7 +12,7 @@ Informasi yang bisa kamu dapatkan seperti:
 Hal hal lain mengenai chatbot ini dapat kamu dapatkan pada menu /help
 '''
 
-HELP = '''Hi, aku dapat membantumu untuk mencari informasi seputar prodi Teknologi Informasi di UIN Walisong Semarang 🙂🙂
+HELP = '''Hi, aku dapat membantumu untuk mencari informasi seputar prodi Teknologi Informasi di UIN Walisongo Semarang 🙂🙂
 
 <b>Namun kamu perlu tau hal hal berikut ini:</b>
 - Bot hanya dapat menjawab pertanyaan seputar prodi TIUINWS.
