@@ -3,11 +3,29 @@ START = '''<b>Selamat datang di chatbot TI UINWS</b> 🤙🤙
 Kamu dapat mencari informasi seputar Prodi Teknologi Informasi UIN Walisongo Semarang.
 
 Informasi yang bisa kamu dapatkan seperti:
+- Acara tahunan
 - Akreditasi
-- List tempat magang
-- List judul skripsi
-- Persyaratan ujian munaqosah/sempro
-- Dll
+- Bahasa pemrograman yang dipelajari
+- Cara bayar UKT
+- Cara Validasi Jurnal Kuliah
+- Dosen TI
+- Jadwal Kuliah
+- Jadwal PBAK
+- Jalur Pendaftaran
+- Judul Skripsi
+- Jumlah Mahasiswa
+- Kakak Asuh
+- Kelompok Belajar
+- Lokasi KP
+- Lomba Tahunan
+- Mata Kuliah RPL
+- Mata Kuliah SK
+- Tata cara Munaqosah
+- Nilai Kuliah
+- Prestasi Mhs TI
+- Tata cara Seminar Proposal
+- Wajib Mahad
+
 
 Hal hal lain mengenai chatbot ini dapat kamu dapatkan pada menu /help
 '''
